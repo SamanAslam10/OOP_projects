@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\bin\Debug\UserManagementApplication.exe.config
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\bin\Debug\UserManagementApplication.exe
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\bin\Debug\UserManagementApplication.pdb
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\obj\Debug\UserManagementApplication.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\obj\Debug\UserManagementApplication.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\obj\Debug\UserManagementApplication.exe
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\obj\Debug\UserManagementApplication.pdb
+S:\CS\semester2\OOP\Lab\code\week7\UserManagementApplication\obj\Debug\UserManagementApplication.exe.config

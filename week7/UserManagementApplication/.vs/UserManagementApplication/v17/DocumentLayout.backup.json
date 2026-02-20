@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|solutionrelative:userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week7\\usermanagementapplication\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|solutionrelative:userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|solutionrelative:usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|solutionrelative:userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377738D7-8509-44CB-97F7-3B31D2E4FFF9}|UserManagementApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserUI.cs",
+              "RelativeDocumentMoniker": "UserUI.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserUI.cs",
+              "RelativeToolTip": "UserUI.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:20:41.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserService.cs",
+              "RelativeToolTip": "UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:25:47.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserRepo.cs",
+              "RelativeDocumentMoniker": "UserRepo.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserRepo.cs",
+              "RelativeToolTip": "UserRepo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEIAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:28:46.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:18:16.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserModel.cs",
+              "RelativeDocumentMoniker": "UserModel.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\UserManagementApplication\\UserModel.cs",
+              "RelativeToolTip": "UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:35:06.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D9C89-5E4B-498F-9BC4-A5B41B065708}|Project1.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week7\\project1\\studentrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D9C89-5E4B-498F-9BC4-A5B41B065708}|Project1.csproj|solutionrelative:studentrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D9C89-5E4B-498F-9BC4-A5B41B065708}|Project1.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week7\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D9C89-5E4B-498F-9BC4-A5B41B065708}|Project1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D9C89-5E4B-498F-9BC4-A5B41B065708}|Project1.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week7\\project1\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D9C89-5E4B-498F-9BC4-A5B41B065708}|Project1.csproj|solutionrelative:studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\StudentModel.cs",
+              "RelativeDocumentMoniker": "StudentModel.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\StudentModel.cs",
+              "RelativeToolTip": "StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:24:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepoDB.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\StudentRepoDB.cs",
+              "RelativeDocumentMoniker": "StudentRepoDB.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\StudentRepoDB.cs",
+              "RelativeToolTip": "StudentRepoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:19:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week7\\Project1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:18:45.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
