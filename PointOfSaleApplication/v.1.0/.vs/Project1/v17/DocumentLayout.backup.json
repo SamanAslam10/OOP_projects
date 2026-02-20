@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|s:\\cs\\semester2\\oop\\lab\\code\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:39:15.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:59:23.631Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:26:47.071Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderItem.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\OrderItem.cs",
+              "RelativeToolTip": "OrderItem.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:27:25.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "OrderHistory.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\OrderHistory.cs",
+              "RelativeToolTip": "OrderHistory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:27:05.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\FileHelper.cs",
+              "RelativeDocumentMoniker": "FileHelper.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\FileHelper.cs",
+              "RelativeToolTip": "FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:33:52.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:26:31.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

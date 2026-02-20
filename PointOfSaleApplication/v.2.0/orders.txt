@@ -1,0 +1,8 @@
+customer,saman,19,782893,lahore
+item,stanley,1,2500,10
+item,bag,1,250,20
+customer,ali,20,6386353,lahore
+item,laptop,2,25000,10
+customer,amina,19,63743848,lahore
+item,pen,2,2000,4000
+item,phone,3,1000,3000

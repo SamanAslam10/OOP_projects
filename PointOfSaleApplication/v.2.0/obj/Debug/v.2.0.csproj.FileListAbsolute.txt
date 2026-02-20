@@ -1,0 +1,16 @@
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\bin\Debug\v.2.0.exe.config
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\bin\Debug\v.2.0.exe
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\bin\Debug\v.2.0.pdb
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\obj\Debug\v.2.0.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\obj\Debug\v.2.0.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\obj\Debug\v.2.0.exe
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\obj\Debug\v.2.0.pdb
+S:\CS\semester2\OOP\Lab\code\Project1\v.2.0\obj\Debug\v.2.0.exe.config
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\obj\Debug\v.2.0.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\obj\Debug\v.2.0.exe.config
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\obj\Debug\v.2.0.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\obj\Debug\v.2.0.exe
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\obj\Debug\v.2.0.pdb
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\bin\Debug\v.2.0.exe.config
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\bin\Debug\v.2.0.exe
+S:\CS\semester2\OOP\Lab\code\PointOfSaleApplication\v.2.0\bin\Debug\v.2.0.pdb

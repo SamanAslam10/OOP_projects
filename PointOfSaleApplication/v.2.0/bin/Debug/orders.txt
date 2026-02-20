@@ -1,0 +1,3 @@
+customer,ali,10,377262,lahore
+item,phone,2,200,400
+item,charger,2,50,100

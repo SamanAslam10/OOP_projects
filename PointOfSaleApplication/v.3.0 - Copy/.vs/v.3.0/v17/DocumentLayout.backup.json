@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\order\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:order\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\order\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:order\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\order\\orderrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:order\\orderrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\order\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:order\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\order\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:order\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|s:\\cs\\semester2\\oop\\lab\\code\\pointofsaleapplication\\v.3.0\\product\\productrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:product\\productrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB5316F-C83A-42E2-A005-FA17E1BE7479}|v.3.0.csproj|solutionrelative:product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "Order\\OrderService.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderService.cs",
+              "RelativeToolTip": "Order\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:28:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderHistory.cs [Design]",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "Order\\OrderHistory.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderHistory.cs [Design]",
+              "RelativeToolTip": "Order\\OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:24:03.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderUI.cs [Design]",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderUI.cs",
+              "RelativeDocumentMoniker": "Order\\OrderUI.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderUI.cs [Design]",
+              "RelativeToolTip": "Order\\OrderUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:19:18.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepoDB.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderRepoDB.cs",
+              "RelativeDocumentMoniker": "Order\\OrderRepoDB.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderRepoDB.cs",
+              "RelativeToolTip": "Order\\OrderRepoDB.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:20:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderUI.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderUI.cs",
+              "RelativeDocumentMoniker": "Order\\OrderUI.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderUI.cs",
+              "RelativeToolTip": "Order\\OrderUI.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAlwPIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:37:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "Order\\OrderHistory.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Order\\OrderHistory.cs",
+              "RelativeToolTip": "Order\\OrderHistory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:24:06.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Product\\ProductUI.cs",
+              "RelativeDocumentMoniker": "Product\\ProductUI.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Product\\ProductUI.cs",
+              "RelativeToolTip": "Product\\ProductUI.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAhwCcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:33:25.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductUI.cs [Design]",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Product\\ProductUI.cs",
+              "RelativeDocumentMoniker": "Product\\ProductUI.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Product\\ProductUI.cs [Design]",
+              "RelativeToolTip": "Product\\ProductUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:33:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepoDB.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Product\\ProductRepoDB.cs",
+              "RelativeDocumentMoniker": "Product\\ProductRepoDB.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.3.0\\Product\\ProductRepoDB.cs",
+              "RelativeToolTip": "Product\\ProductRepoDB.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAMwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:29:29.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

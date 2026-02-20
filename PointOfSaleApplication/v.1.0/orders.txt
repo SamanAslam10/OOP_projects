@@ -1,0 +1,2 @@
+ali,52773,20,lahore,mobile,1Ali Hamza,23456,20,lahore,pen,2
+Ali Hamza,23456,20,lahore,pen,2

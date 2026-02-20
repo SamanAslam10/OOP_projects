@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C95D3F-7F7B-4D4A-845B-D26ECCA66277}|Project1.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project1\\Program.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\Project1\\Program.cs",
+              "RelativeToolTip": "..\\..\\Project1\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:39:15.904Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:59:23.631Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:26:47.071Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderItem.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\OrderItem.cs",
+              "RelativeToolTip": "OrderItem.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:27:25.573Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "OrderHistory.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\OrderHistory.cs",
+              "RelativeToolTip": "OrderHistory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:27:05.932Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\FileHelper.cs",
+              "RelativeDocumentMoniker": "FileHelper.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\FileHelper.cs",
+              "RelativeToolTip": "FileHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:33:52.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\PointOfSaleApplication\\v.1.0\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:26:31.314Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

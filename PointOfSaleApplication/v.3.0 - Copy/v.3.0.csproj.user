@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Customer\CustomerAdvanceUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\CustomerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order\OrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order\OrderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\ProductAdvanceUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\ProductUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
