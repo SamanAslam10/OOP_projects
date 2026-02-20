@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+S:\CS\semester2\OOP\Lab\code\week2\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe.config

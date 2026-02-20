@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\obj\Debug\week2x_x.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\obj\Debug\week2x_x.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\bin\Debug\week2x_x.exe.config
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\bin\Debug\week2x_x.exe
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\bin\Debug\week2x_x.pdb
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\obj\Debug\week2x_x.exe
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\obj\Debug\week2x_x.pdb
+S:\CS\semester2\OOP\Lab\code\week2\week2x_x\week2x_x\obj\Debug\week2x_x.exe.config

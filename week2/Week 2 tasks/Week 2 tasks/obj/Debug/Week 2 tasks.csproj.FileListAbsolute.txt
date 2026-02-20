@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\bin\Debug\Week 2 tasks.exe.config
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\bin\Debug\Week 2 tasks.exe
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\bin\Debug\Week 2 tasks.pdb
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\obj\Debug\Week 2 tasks.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\obj\Debug\Week 2 tasks.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\obj\Debug\Week 2 tasks.exe
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\obj\Debug\Week 2 tasks.pdb
+S:\CS\semester2\OOP\Lab\code\week2\Week 2 tasks\Week 2 tasks\obj\Debug\Week 2 tasks.exe.config
