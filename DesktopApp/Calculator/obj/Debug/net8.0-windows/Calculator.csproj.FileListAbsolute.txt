@@ -1,0 +1,16 @@
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll

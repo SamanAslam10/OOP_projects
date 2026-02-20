@@ -1,0 +1,16 @@
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.exe
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.deps.json
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.runtimeconfig.json
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.dll
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\bin\Debug\net8.0-windows\DesktopApp.pdb
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.Form1.resources
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.csproj.GenerateResource.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.AssemblyInfoInputs.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.AssemblyInfo.cs
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.dll
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\refint\DesktopApp.dll
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.pdb
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\DesktopApp.genruntimeconfig.cache
+S:\CS\semester2\OOP\Lab\code\DesktopApp\DesktopApp\obj\Debug\net8.0-windows\ref\DesktopApp.dll
