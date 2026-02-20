@@ -1,0 +1,14 @@
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\bin\Debug\net8.0\selfassessment1.exe
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\bin\Debug\net8.0\selfassessment1.deps.json
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\bin\Debug\net8.0\selfassessment1.runtimeconfig.json
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\bin\Debug\net8.0\selfassessment1.dll
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\bin\Debug\net8.0\selfassessment1.pdb
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.GeneratedMSBuildEditorConfig.editorconfig
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.AssemblyInfoInputs.cache
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.AssemblyInfo.cs
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.dll
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\refint\selfassessment1.dll
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.pdb
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\selfassessment1.genruntimeconfig.cache
+S:\CS\semester2\OOP\Lab\code\week1\selfassessment1\selfassessment1\obj\Debug\net8.0\ref\selfassessment1.dll
