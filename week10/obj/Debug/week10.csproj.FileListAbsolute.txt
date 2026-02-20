@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week10\bin\Debug\week10.exe.config
+S:\CS\semester2\OOP\Lab\code\week10\bin\Debug\week10.exe
+S:\CS\semester2\OOP\Lab\code\week10\bin\Debug\week10.pdb
+S:\CS\semester2\OOP\Lab\code\week10\obj\Debug\week10.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week10\obj\Debug\week10.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week10\obj\Debug\week10.exe
+S:\CS\semester2\OOP\Lab\code\week10\obj\Debug\week10.pdb
+S:\CS\semester2\OOP\Lab\code\week10\obj\Debug\week10.exe.config
