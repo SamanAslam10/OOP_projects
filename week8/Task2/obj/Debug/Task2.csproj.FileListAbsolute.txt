@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week8\Task2\bin\Debug\Task2.exe.config
+S:\CS\semester2\OOP\Lab\code\week8\Task2\bin\Debug\Task2.exe
+S:\CS\semester2\OOP\Lab\code\week8\Task2\bin\Debug\Task2.pdb
+S:\CS\semester2\OOP\Lab\code\week8\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week8\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week8\Task2\obj\Debug\Task2.exe
+S:\CS\semester2\OOP\Lab\code\week8\Task2\obj\Debug\Task2.pdb
+S:\CS\semester2\OOP\Lab\code\week8\Task2\obj\Debug\Task2.exe.config
