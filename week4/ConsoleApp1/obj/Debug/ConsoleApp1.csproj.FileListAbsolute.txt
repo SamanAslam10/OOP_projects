@@ -1,0 +1,8 @@
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+S:\CS\semester2\OOP\Lab\code\week4\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
