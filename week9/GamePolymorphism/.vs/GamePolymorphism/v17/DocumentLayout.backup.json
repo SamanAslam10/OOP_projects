@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week9\\gamepolymorphism\\diagonalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|solutionrelative:diagonalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week9\\gamepolymorphism\\horizontalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|solutionrelative:horizontalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week9\\gamepolymorphism\\verticalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|solutionrelative:verticalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week9\\gamepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|s:\\cs\\semester2\\oop\\lab\\code\\week9\\gamepolymorphism\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D9B701-58F0-48ED-AAE8-BA8408AE7D19}|GamePolymorphism.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagonalEnemy.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\DiagonalEnemy.cs",
+              "RelativeDocumentMoniker": "DiagonalEnemy.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\DiagonalEnemy.cs*",
+              "RelativeToolTip": "DiagonalEnemy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:14:58.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HorizontalEnemy.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\HorizontalEnemy.cs",
+              "RelativeDocumentMoniker": "HorizontalEnemy.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\HorizontalEnemy.cs*",
+              "RelativeToolTip": "HorizontalEnemy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:14:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerticalEnemy.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\VerticalEnemy.cs",
+              "RelativeDocumentMoniker": "VerticalEnemy.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\VerticalEnemy.cs",
+              "RelativeToolTip": "VerticalEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:14:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:14:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "S:\\CS\\semester2\\OOP\\Lab\\code\\week9\\GamePolymorphism\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:09:36.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

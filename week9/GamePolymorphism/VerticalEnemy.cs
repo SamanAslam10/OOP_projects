@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GamePolymorphism
+{
+    internal class VerticalEnemy : Enemy
+    {
+        public VerticalEnemy() 
+        {
+            Console.WriteLine("Vertical");
+        }
+        public override void Move() 
+        {
+            Console.WriteLine("Vertical Class!");
+        }
+    }
+}
